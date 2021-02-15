@@ -1,0 +1,18 @@
+[
+{
+  "modid": "totalpowderkeg",
+  "name": "TPK: Total Powder Keg",
+  "description": "Adds a throwable powder keg to Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["coolAlias"],
+  "credits": "This mod made possible by Damien - many thanks!",
+  "logoFile": "",
+  "screenshots": [],
+  "useDependencyInformation": true,
+  "requiredMods": [],
+  "dependencies": []
+}
+]

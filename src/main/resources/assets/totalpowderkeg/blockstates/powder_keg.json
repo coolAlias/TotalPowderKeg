@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"explode=true": { "model": "totalpowderkeg:powder_keg" },
+		"explode=false": { "model": "totalpowderkeg:powder_keg" }
+	}
+}
